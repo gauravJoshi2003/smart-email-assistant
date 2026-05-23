@@ -167,12 +167,9 @@ a meeting tomorrow. Please let me know your preferred time...
 ## 🖼️ Screenshots
 
 | Web App | Gmail Extension |
-|---|---|
-| ![Web App](<img width="1065" height="862" alt="p1" src="https://github.com/user-attachments/assets/6a6179dd-0a0b-4915-b2bd-d72a89cb1a84" />
+<img width="1065" height="862" alt="p1" src="https://github.com/user-attachments/assets/6a6179dd-0a0b-4915-b2bd-d72a89cb1a84" />
 <img width="785" height="763" alt="p2" src="https://github.com/user-attachments/assets/905eb9af-265d-43f5-b1a6-04c345e356ba" />
-
-) | ![Extension](<img width="1065" height="560" alt="image" src="https://github.com/user-attachments/assets/8875673d-337a-4929-9ed4-edd1e18a83e2" />
-) |
+<img width="1065" height="560" alt="image" src="https://github.com/user-attachments/assets/8875673d-337a-4929-9ed4-edd1e18a83e2" />
 
 ---
 
